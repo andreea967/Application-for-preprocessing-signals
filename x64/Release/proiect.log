@@ -1,0 +1,132 @@
+﻿  uic proiect.ui
+  rcc proiect.qrc
+  moc proiect.h
+  moc qcustomplot.h
+   RCC: Warning: No resources in 'C:\Users\Koni\OneDrive\Desktop\apd-p\proiect\proiect\proiect\proiect.qrc'.
+  filt.cpp
+  main.cpp
+  proiect.cpp
+  qcustomplot.cpp
+  qrc_proiect.cpp
+  moc_proiect.cpp
+  moc_qcustomplot.cpp
+  class any is only available with C++17 or later.
+  The contents of <charconv> are only available with C++17 or later.
+  The contents of <compare> are only available with C++20 or later.
+  The contents of <concepts> are only available with C++20 concepts support.
+  The contents of <filesystem> are only available with C++17 or later.
+  class any is only available with C++17 or later.
+  The contents of <charconv> are only available with C++17 or later.
+  The contents of <memory_resource> are only available with C++17 or later.
+  class template optional is only available with C++17 or later.
+  The contents of <ranges> are only available with C++20 concepts support.
+  The contents of <compare> are only available with C++20 or later.
+  The contents of <concepts> are only available with C++20 concepts support.
+  class any is only available with C++17 or later.
+  The contents of <filesystem> are only available with C++17 or later.
+  The contents of <charconv> are only available with C++17 or later.
+  string_view is only available with C++17 or later.
+  The contents of <compare> are only available with C++20 or later.
+  The contents of <memory_resource> are only available with C++17 or later.
+  class template optional is only available with C++17 or later.
+  The contents of <ranges> are only available with C++20 concepts support.
+  The contents of <concepts> are only available with C++20 concepts support.
+  class template variant is only available with C++17 or later.
+  Parallel algorithms are only available with C++17 or later.
+  The contents of <filesystem> are only available with C++17 or later.
+  string_view is only available with C++17 or later.
+  The contents of <memory_resource> are only available with C++17 or later.
+  class template optional is only available with C++17 or later.
+  The contents of <ranges> are only available with C++20 concepts support.
+  class template variant is only available with C++17 or later.
+  Parallel algorithms are only available with C++17 or later.
+  string_view is only available with C++17 or later.
+  class template variant is only available with C++17 or later.
+  Parallel algorithms are only available with C++17 or later.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(17,1): warning C4005: 'M_E': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(155): message : see previous definition of 'M_E' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(18,1): warning C4005: 'M_LOG2E': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(159): message : see previous definition of 'M_LOG2E' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(19,1): warning C4005: 'M_LOG10E': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(163): message : see previous definition of 'M_LOG10E' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(20,1): warning C4005: 'M_LN2': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(167): message : see previous definition of 'M_LN2' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(21,1): warning C4005: 'M_LN10': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(171): message : see previous definition of 'M_LN10' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: 'M_PI': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(175): message : see previous definition of 'M_PI' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: 'M_PI_2': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(179): message : see previous definition of 'M_PI_2' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: 'M_PI_4': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(183): message : see previous definition of 'M_PI_4' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: 'M_1_PI': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(187): message : see previous definition of 'M_1_PI' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: 'M_2_PI': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(191): message : see previous definition of 'M_2_PI' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: 'M_2_SQRTPI': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(195): message : see previous definition of 'M_2_SQRTPI' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_SQRT2': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(199): message : see previous definition of 'M_SQRT2' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: 'M_SQRT1_2': macro redefinition (compiling source file proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(203): message : see previous definition of 'M_SQRT1_2' (compiling source file proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(17,1): warning C4005: 'M_E': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(155): message : see previous definition of 'M_E' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(18,1): warning C4005: 'M_LOG2E': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(159): message : see previous definition of 'M_LOG2E' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(19,1): warning C4005: 'M_LOG10E': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(163): message : see previous definition of 'M_LOG10E' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(20,1): warning C4005: 'M_LN2': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(167): message : see previous definition of 'M_LN2' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(21,1): warning C4005: 'M_LN10': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(171): message : see previous definition of 'M_LN10' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: 'M_PI': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(175): message : see previous definition of 'M_PI' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: 'M_PI_2': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(179): message : see previous definition of 'M_PI_2' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: 'M_PI_4': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(183): message : see previous definition of 'M_PI_4' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: 'M_1_PI': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(187): message : see previous definition of 'M_1_PI' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: 'M_2_PI': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(191): message : see previous definition of 'M_2_PI' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: 'M_2_SQRTPI': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(195): message : see previous definition of 'M_2_SQRTPI' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_SQRT2': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(199): message : see previous definition of 'M_SQRT2' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: 'M_SQRT1_2': macro redefinition (compiling source file main.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(203): message : see previous definition of 'M_SQRT1_2' (compiling source file main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(17,1): warning C4005: 'M_E': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(155): message : see previous definition of 'M_E' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(18,1): warning C4005: 'M_LOG2E': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(159): message : see previous definition of 'M_LOG2E' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(19,1): warning C4005: 'M_LOG10E': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(163): message : see previous definition of 'M_LOG10E' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(20,1): warning C4005: 'M_LN2': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(167): message : see previous definition of 'M_LN2' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(21,1): warning C4005: 'M_LN10': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(171): message : see previous definition of 'M_LN10' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: 'M_PI': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(175): message : see previous definition of 'M_PI' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: 'M_PI_2': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(179): message : see previous definition of 'M_PI_2' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: 'M_PI_4': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(183): message : see previous definition of 'M_PI_4' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: 'M_1_PI': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(187): message : see previous definition of 'M_1_PI' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: 'M_2_PI': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(191): message : see previous definition of 'M_2_PI' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: 'M_2_SQRTPI': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(195): message : see previous definition of 'M_2_SQRTPI' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_SQRT2': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(199): message : see previous definition of 'M_SQRT2' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: 'M_SQRT1_2': macro redefinition (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Qt\5.12.6\msvc2017_64\include\QtCore\qmath.h(203): message : see previous definition of 'M_SQRT1_2' (compiling source file x64\Release\\moc\moc_proiect.cpp)
+C:\Users\Koni\OneDrive\Desktop\apd-p\proiect\proiect\proiect\proiect.cpp(184): warning C4715: 'proiect::deschidereFisierSiReturneazaValori': not all control paths return a value
+qcustomplot.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl QPrinter::QPrinter(enum QPrinter::PrinterMode)" (__imp_??0QPrinter@@QEAA@W4PrinterMode@0@@Z) referenced in function "public: bool __cdecl QCustomPlot::savePdf(class QString const &,int,int,enum QCP::ExportPen,class QString const &,class QString const &)" (?savePdf@QCustomPlot@@QEAA_NAEBVQString@@HHW4ExportPen@QCP@@00@Z)
+qcustomplot.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl QPrinter::~QPrinter(void)" (__imp_??1QPrinter@@UEAA@XZ) referenced in function "public: bool __cdecl QCustomPlot::savePdf(class QString const &,int,int,enum QCP::ExportPen,class QString const &,class QString const &)" (?savePdf@QCustomPlot@@QEAA_NAEBVQString@@HHW4ExportPen@QCP@@00@Z)
+qcustomplot.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl QPrinter::setOutputFormat(enum QPrinter::OutputFormat)" (__imp_?setOutputFormat@QPrinter@@QEAAXW4OutputFormat@1@@Z) referenced in function "public: bool __cdecl QCustomPlot::savePdf(class QString const &,int,int,enum QCP::ExportPen,class QString const &,class QString const &)" (?savePdf@QCustomPlot@@QEAA_NAEBVQString@@HHW4ExportPen@QCP@@00@Z)
+qcustomplot.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl QPrinter::setOutputFileName(class QString const &)" (__imp_?setOutputFileName@QPrinter@@QEAAXAEBVQString@@@Z) referenced in function "public: bool __cdecl QCustomPlot::savePdf(class QString const &,int,int,enum QCP::ExportPen,class QString const &,class QString const &)" (?savePdf@QCustomPlot@@QEAA_NAEBVQString@@HHW4ExportPen@QCP@@00@Z)
+qcustomplot.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl QPrinter::setColorMode(enum QPrinter::ColorMode)" (__imp_?setColorMode@QPrinter@@QEAAXW4ColorMode@1@@Z) referenced in function "public: bool __cdecl QCustomPlot::savePdf(class QString const &,int,int,enum QCP::ExportPen,class QString const &,class QString const &)" (?savePdf@QCustomPlot@@QEAA_NAEBVQString@@HHW4ExportPen@QCP@@00@Z)
+qcustomplot.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class QPrintEngine * __cdecl QPrinter::printEngine(void)const " (__imp_?printEngine@QPrinter@@QEBAPEAVQPrintEngine@@XZ) referenced in function "public: bool __cdecl QCustomPlot::savePdf(class QString const &,int,int,enum QCP::ExportPen,class QString const &,class QString const &)" (?savePdf@QCustomPlot@@QEAA_NAEBVQString@@HHW4ExportPen@QCP@@00@Z)
+qcustomplot.obj : error LNK2001: unresolved external symbol "public: virtual __cdecl QPrinter::~QPrinter(void)" (??1QPrinter@@UEAA@XZ)
+C:\Users\Koni\OneDrive\Desktop\apd-p\proiect\proiect\x64\Release\\proiect.exe : fatal error LNK1120: 7 unresolved externals
